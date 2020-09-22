@@ -2,6 +2,10 @@
   border: 3px solid #bdbdbd;
 }
 
+#validation-input:focus {
+  outline-style: none;
+}
+
 #validation-input.valid {
   border-color: #4caf50;
 }
